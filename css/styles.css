@@ -1,7 +1,5 @@
 body{  
-    
-   background-image: url(BackGround\ IMG.jpg);
-
+    background-image: url(BackGround\ IMG.jpg);
     background-size: cover;  
     background-blend-mode:darken;
 }
